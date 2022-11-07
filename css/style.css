@@ -16,7 +16,7 @@ body {
 
 header {
 
-    background-image: url(../img/headerimg.jpg);
+    background-image: url(../img/banner-g1c5ca17a9_1280.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100px;
@@ -160,4 +160,33 @@ form.registro {
 }
 .field{
     color: brown;
+}
+.horario{
+    text-align: center;
+    background-color: white;
+    margin: 0% auto;
+}
+.BDD{
+    background-color: #ff8080;
+}
+.FOL{
+    background-color: #FFFF64;
+}
+.ENDE{
+    background-color: #00B95C;
+}
+.SISI{
+    background-color: #FFA264;
+}
+.PROG{
+    background-color: #0080FF;
+}
+.ING{
+    background-color: #D2D26E;
+}
+.LMSG{
+    background-color: #00DF00;
+}
+table.horario th{
+  color: rgb(18, 28, 161);
 }
