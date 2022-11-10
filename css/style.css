@@ -144,7 +144,8 @@ table.striped tr:nth-child(even) {
     background-color: rgb(246, 253, 207);
 }
 form.registro {
-    width: 60%;
+  margin: 20px 70px;
+    text-align: center;
 }
 .usuarios{
     width: 98%;
@@ -189,4 +190,11 @@ form.registro {
 }
 table.horario th{
   color: rgb(18, 28, 161);
+}
+#multi{
+    text-align: center;
+    
+}
+#form{
+    text-align: center;
 }
