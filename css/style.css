@@ -103,7 +103,6 @@ ul.ldc li ul li{
 ul.ldc li ul li ul li{
     list-style-type: disc;
 }
-/*    ordenada customizada */
 ol.loc li {
     list-style-type: upper-alpha;
 }
@@ -145,7 +144,7 @@ table.striped tr:nth-child(even) {
 }
 form.registro {
   margin: 20px 70px;
-    text-align: center;
+
 }
 .usuarios{
     width: 98%;
